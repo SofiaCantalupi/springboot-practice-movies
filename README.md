@@ -9,7 +9,7 @@ Permite crear, consultar y actualizar  con validaciones integradas y control de 
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/soficantalupi/movie-api.git
+   https://github.com/SofiaCantalupi/springboot-practice-movies.git
 
 2. Abrir el proyecto en IntelliJ IDEA
 
